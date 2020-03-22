@@ -1,0 +1,19 @@
+{
+  "name": "crf-opres-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurentChin/crf-opres-api.git"
+  },
+  "author": "Laurent Janet <laurent.janet@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/laurentChin/crf-opres-api/issues"
+  },
+  "homepage": "https://github.com/laurentChin/crf-opres-api#readme"
+}
